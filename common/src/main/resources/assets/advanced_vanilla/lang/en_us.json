@@ -1,0 +1,37 @@
+{
+  "block.advanced_vanilla.block_of_enderite": "Block of Enderite",
+  "block.advanced_vanilla.medium_weighted_pressure_plate": "Medium Weighted Pressure Plate",
+  "block.advanced_vanilla.void_shard": "Void Shard",
+
+  "category.advanced_vanilla.tab": "Advanced Vanilla",
+
+  "item.advanced_vanilla.copper_axe": "Copper Axe",
+  "item.advanced_vanilla.copper_boots": "Copper Boots",
+  "item.advanced_vanilla.copper_chestplate": "Copper Chestplate",
+  "item.advanced_vanilla.copper_helmet": "Copper Helmet",
+  "item.advanced_vanilla.copper_hoe": "Copper Hoe",
+  "item.advanced_vanilla.copper_leggings": "Copper Leggings",
+  "item.advanced_vanilla.copper_nugget": "Copper Nugget",
+  "item.advanced_vanilla.copper_pickaxe": "Copper Pickaxe",
+  "item.advanced_vanilla.copper_shovel": "Copper Shovel",
+  "item.advanced_vanilla.copper_sword": "Copper Sword",
+  "item.advanced_vanilla.enderite_axe": "Enderite Axe",
+  "item.advanced_vanilla.enderite_boots": "Enderite Boots",
+  "item.advanced_vanilla.enderite_chestplate": "Enderite Chestplate",
+  "item.advanced_vanilla.enderite_helmet": "Enderite Helmet",
+  "item.advanced_vanilla.enderite_hoe": "Enderite Hoe",
+  "item.advanced_vanilla.enderite_ingot": "Enderite Ingot",
+  "item.advanced_vanilla.enderite_leggings": "Enderite Leggings",
+  "item.advanced_vanilla.enderite_pickaxe": "Enderite Pickaxe",
+  "item.advanced_vanilla.enderite_shard": "Enderite Shard",
+  "item.advanced_vanilla.enderite_shovel": "Enderite Shovel",
+  "item.advanced_vanilla.enderite_sword": "Enderite Sword",
+  "item.advanced_vanilla.enderite_upgrade_smithing_template": "Smithing Template",
+
+  "item.advanced_vanilla.smithing_template.enderite_upgrade.additions_slot_description": "Add Enderite Ingot",
+  "item.advanced_vanilla.smithing_template.enderite_upgrade.applies_to": "Netherite Equipment",
+  "item.advanced_vanilla.smithing_template.enderite_upgrade.base_slot_description": "Add netherite armor, weapon, or tool",
+  "item.advanced_vanilla.smithing_template.enderite_upgrade.ingredients": "Enderite Ingot",
+
+  "upgrade.advanced_vanilla.enderite_upgrade": "Enderite Upgrade"
+}

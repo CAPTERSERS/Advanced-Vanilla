@@ -1,0 +1,37 @@
+{
+  "block.advanced_vanilla.block_of_enderite": "Bloque de enderita",
+  "block.advanced_vanilla.medium_weighted_pressure_plate": "Placa de presión para peso medio",
+  "block.advanced_vanilla.void_shard": "Fragmento del vacío",
+
+  "category.advanced_vanilla.tab": "Advanced Vanilla",
+
+  "item.advanced_vanilla.copper_axe": "Hacha de cobre",
+  "item.advanced_vanilla.copper_boots": "Botas de cobre",
+  "item.advanced_vanilla.copper_chestplate": "Peto de cobre",
+  "item.advanced_vanilla.copper_helmet": "Casco de cobre",
+  "item.advanced_vanilla.copper_hoe": "Azada de cobre",
+  "item.advanced_vanilla.copper_leggings": "Grebas de cobre",
+  "item.advanced_vanilla.copper_nugget": "Pepita de cobre",
+  "item.advanced_vanilla.copper_pickaxe": "Pico de cobre",
+  "item.advanced_vanilla.copper_shovel": "Pala de cobre",
+  "item.advanced_vanilla.copper_sword": "Espada de cobre",
+  "item.advanced_vanilla.enderite_axe": "Hacha de enderita",
+  "item.advanced_vanilla.enderite_boots": "Botas de enderita",
+  "item.advanced_vanilla.enderite_chestplate": "Peto de enderita",
+  "item.advanced_vanilla.enderite_helmet": "Casco de enderita",
+  "item.advanced_vanilla.enderite_hoe": "Azada de enderita",
+  "item.advanced_vanilla.enderite_ingot": "Lingote de enderita",
+  "item.advanced_vanilla.enderite_leggings": "Grebas de enderita",
+  "item.advanced_vanilla.enderite_pickaxe": "Pico de enderita",
+  "item.advanced_vanilla.enderite_shard": "Fragmento de enderita",
+  "item.advanced_vanilla.enderite_shovel": "Pala de enderita",
+  "item.advanced_vanilla.enderite_sword": "Espada de enderita",
+  "item.advanced_vanilla.enderite_upgrade_smithing_template": "Molde de herrería",
+
+  "item.advanced_vanilla.smithing_template.enderite_upgrade.additions_slot_description": "Añade un lingote de enderita",
+  "item.advanced_vanilla.smithing_template.enderite_upgrade.applies_to": "Equipamiento de netherita",
+  "item.advanced_vanilla.smithing_template.enderite_upgrade.base_slot_description": "Añade una armadura, arma o herramienta de netherita",
+  "item.advanced_vanilla.smithing_template.enderite_upgrade.ingredients": "Lingote de enderita",
+
+  "upgrade.advanced_vanilla.enderite_upgrade": "Mejora de enderita"
+}
