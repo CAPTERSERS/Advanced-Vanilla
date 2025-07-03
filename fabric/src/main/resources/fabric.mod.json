@@ -3,12 +3,14 @@
   "id": "advanced_vanilla",
   "version": "${version}",
   "name": "Advanced Vanilla",
-  "description": "",
+  "description": "Enhances vanilla items with new features and introduces a range of materials to enrich the classic experience.",
   "authors": [
-    ""
+    "CAPTERSERS"
   ],
   "contact": {
-    "homepage": ""
+    "homepage": "",
+    "sources": "https://github.com/CAPTERSERS/Advanced-Vanilla",
+    "issues": "https://github.com/CAPTERSERS/Advanced-Vanilla/issues"
   },
   "license": "MIT",
   "icon": "assets/advanced_vanilla/icon.png",
@@ -34,7 +36,5 @@
     "architectury": ">=13.0.8",
     "fabric-api": "*"
   },
-  "suggests": {
-    "another-mod": "*"
-  }
+  "suggests": {}
 }

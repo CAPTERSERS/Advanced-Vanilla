@@ -26,7 +26,7 @@ public class AVPlacedFeatures {
      * Registry key for the void shard placed feature.
      * This feature determines how void shards are distributed in the world.
      */
-    public static final ResourceKey<PlacedFeature> VOID_SHARD = registerKey("void_shard");
+    public static final ResourceKey<PlacedFeature> VOID_SHARD_PLACED = registerKey("void_shard_placed");
 
     /**
      * Creates a registry key for a placed feature with the given name.
@@ -73,8 +73,8 @@ public class AVPlacedFeatures {
         HolderGetter<ConfiguredFeature<?, ?>> configuredFeatures = context.lookup(Registries.CONFIGURED_FEATURE);
 
         // Register void shard placed feature with 2 attempts per chunk, uniform distribution from Y=0 to Y=128o
-        register(context, VOID_SHARD, configuredFeatures.getOrThrow(AVConfiguredFeatures.VOID_SHARD),
-                Modifiers.modifiersCount(10, HeightRangePlacement.uniform(VerticalAnchor.absolute(0), VerticalAnchor.absolute(128)))
+        register(context, VOID_SHARD_PLACED, configuredFeatures.getOrThrow(AVConfiguredFeatures.VOID_SHARD),
+                Modifiers.modifiersCount(2, HeightRangePlacement.uniform(VerticalAnchor.absolute(0), VerticalAnchor.absolute(128)))
         );
     }
 

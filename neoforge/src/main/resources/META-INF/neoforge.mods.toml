@@ -1,17 +1,19 @@
 modLoader = "javafml"
 loaderVersion = "[2,)"
-#issueTrackerURL = ""
+issueTrackerURL = "https://github.com/CAPTERSERS/Advanced-Vanilla/issues"
 license = "MIT"
 
 [[mods]]
 modId = "advanced_vanilla"
 version = "${version}"
 displayName = "Advanced Vanilla"
-authors = ""
+authors = "CAPTERSERS"
 description = '''
-
+Enhances vanilla items with new features and introduces a range of materials to enrich the classic experience.
 '''
-#logoFile = ""
+logoFile = "assets/advanced_vanilla/icon.png"
+modUrl = "https://github.com/CAPTERSERS/Advanced-Vanilla"
+displayURL = ""
 
 [[dependencies.advanced_vanilla]]
 modId = "neoforge"

@@ -32,7 +32,7 @@ public class AVFabricBiomeModifications {
         BiomeModifications.addFeature(
                 BiomeSelectors.foundInTheEnd(),
                 GenerationStep.Decoration.UNDERGROUND_ORES,
-                AVPlacedFeatures.VOID_SHARD
+                AVPlacedFeatures.VOID_SHARD_PLACED
         );
 
         // Log successful registration with generation details
