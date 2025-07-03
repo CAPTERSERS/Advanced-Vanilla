@@ -2,7 +2,7 @@
 
 A comprehensive Minecraft mod that enhances the vanilla experience by adding new materials, tools, armor, and world generation features. Built with Architectury API for cross-platform compatibility.
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-green.svg)](https://www.minecraft.net/) [![Architectury](https://img.shields.io/badge/Architectury-API-blue.svg)](https://github.com/Architectury/ArchitecturyAPI) [![Fabric](https://img.shields.io/badge/Fabric-Loader-purple.svg)](https://fabricmc.net/) [![NeoForge](https://img.shields.io/badge/NeoForge-Loader-orange.svg)](https://neoforged.net/)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-green.svg)](https://www.minecraft.net/) [![Architectury](https://img.shields.io/badge/Architectury-API-blue.svg)](https://github.com/Architectury/ArchitecturyAPI) [![Fabric](https://img.shields.io/badge/Fabric-Loader-purple.svg)](https://fabricmc.net/) [![NeoForge](https://img.shields.io/badge/NeoForge-Loader-orange.svg)](https://neoforged.net/)[![GitBook](https://img.shields.io/static/v1?message=Documentation\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=B22222\&color=000)](https://captersers.gitbook.io/captersers)
 
 ## Features
 
@@ -81,10 +81,6 @@ All copper tools and armor can be smelted or blasted to recover **Copper Nuggets
 #### Smithing Templates
 
 * **Enderite Upgrade Smithing Template**: Used to upgrade Netherite equipment to Enderite
-
-**Want to see everything this mod brings to the table?**
-
-[![GitBook](https://img.shields.io/static/v1?message=%20GitBook\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=B22222\&color=000)](https://captersers.gitbook.io/captersers)
 
 ## Installation
 
