@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Advanced Vanilla](README.md)
+* [Home](README.md)
