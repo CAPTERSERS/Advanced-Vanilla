@@ -1,5 +1,7 @@
 # Home
 
+A comprehensive Minecraft mod that enhances the vanilla experience by adding new materials, tools, armor, and world generation features. Built with Architectury API for cross-platform compatibility.
+
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-green.svg)](https://www.minecraft.net/) [![Architectury](https://img.shields.io/badge/Architectury-API-blue.svg)](https://github.com/Architectury/ArchitecturyAPI) [![Fabric](https://img.shields.io/badge/Fabric-Loader-purple.svg)](https://fabricmc.net/) [![NeoForge](https://img.shields.io/badge/NeoForge-Loader-orange.svg)](https://neoforged.net/)
 
 ## Features
