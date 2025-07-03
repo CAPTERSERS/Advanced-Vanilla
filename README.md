@@ -82,6 +82,10 @@ All copper tools and armor can be smelted or blasted to recover **Copper Nuggets
 
 * **Enderite Upgrade Smithing Template**: Used to upgrade Netherite equipment to Enderite
 
+**Want to see everything this mod brings to the table?**
+
+[![GitBook](https://img.shields.io/static/v1?message=%20GitBook\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=B22222\&color=000)](https://captersers.gitbook.io/captersers)
+
 ## Installation
 
 ### Prerequisites
