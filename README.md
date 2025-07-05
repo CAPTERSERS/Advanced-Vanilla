@@ -4,7 +4,7 @@
 [![Architectury](https://img.shields.io/badge/Architectury-API-blue.svg)](https://github.com/Architectury/ArchitecturyAPI)
 [![Fabric](https://img.shields.io/badge/Fabric-Loader-purple.svg)](https://fabricmc.net/)
 [![NeoForge](https://img.shields.io/badge/NeoForge-Loader-orange.svg)](https://neoforged.net/)
-[![GitBook](https://img.shields.io/static/v1?message=Documentation\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=B22222\&color=000)](https://captersers.gitbook.io/captersers)
+[![GitBook](https://img.shields.io/static/v1?message=Documentation\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=B22222\&color=000)](https://captersers-org.gitbook.io/captersers-org/)
 
 **¡Add new tools, armor, items, and blocks, plus brand-new recipes built from vanilla materials — Unleash the mystical power of _Enderite_!**
 
