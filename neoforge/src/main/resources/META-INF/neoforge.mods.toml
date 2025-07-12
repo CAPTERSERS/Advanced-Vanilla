@@ -1,35 +1,35 @@
 modLoader = "javafml"
 loaderVersion = "[2,)"
-issueTrackerURL = "https://github.com/CAPTERSERS/Advanced-Vanilla/issues"
+issueTrackerURL = ""
 license = "MIT"
 
 [[mods]]
-modId = "advanced_vanilla"
+modId = "captercraft"
 version = "${version}"
-displayName = "Advanced Vanilla"
+displayName = "CapterCraft"
 authors = "CAPTERSERS"
 description = '''
 Enhances vanilla items with new features and introduces a range of materials to enrich the classic experience.
 '''
-logoFile = "assets/advanced_vanilla/icon.png"
-modUrl = "https://github.com/CAPTERSERS/Advanced-Vanilla"
+logoFile = "assets/captercraft/icon.png"
+modUrl = ""
 displayURL = ""
 
-[[dependencies.advanced_vanilla]]
+[[dependencies.captercraft]]
 modId = "neoforge"
 type = "required"
 versionRange = "[21,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.advanced_vanilla]]
+[[dependencies.captercraft]]
 modId = "minecraft"
 type = "required"
 versionRange = "[1.21.1,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.advanced_vanilla]]
+[[dependencies.captercraft]]
 modId = "architectury"
 type = "required"
 versionRange = "[13.0.8,)"
@@ -37,4 +37,4 @@ ordering = "AFTER"
 side = "BOTH"
 
 [[mixins]]
-config = "advanced_vanilla.mixins.json"
+config = "captercraft.mixins.json"

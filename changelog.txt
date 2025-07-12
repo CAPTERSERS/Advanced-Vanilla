@@ -1,0 +1,70 @@
+Advanced Vanilla - Changelog
+============================
+
+Version 1.0.0 - Initial Release
+================================
+
+[FEATURES]
+- Added Copper tier tools and armor set
+  * Copper Sword, Pickaxe, Axe, Shovel, Hoe
+  * Copper Helmet, Chestplate, Leggings, Boots
+
+- Added Enderite tier tools and armor set
+  * Enderite Sword, Pickaxe, Axe, Shovel, Hoe
+  * Enderite Helmet, Chestplate, Leggings, Boots
+
+- Added new materials
+  * Copper Nugget - 9 nuggets = 1 ingot conversion
+  * Enderite Ingot - 9 ingots = 1 block conversion
+  * Enderite Shard - obtained from smelting Void Shards
+
+- Added new blocks
+  * Block of Enderite - decorative block
+  * Medium Weighted Pressure Plate - activates with 75 entities
+  * Void Shard - rare ore found in The End dimension
+
+- Added world generation
+  * Void Shards generate in The End (End Stone)
+  * 3 blocks per vein, 2 veins per chunk
+  * Height range: 0-128 blocks
+
+- Added crafting recipes
+  * Material conversion recipes (nugget ↔ ingot, ingot ↔ block)
+  * Smelting recipes for raw blocks and Void Shards
+  * Recycling recipes for copper equipment
+  * Enderite Upgrade Smithing Template
+
+- Added localization
+  * English (en_us) and Spanish (es_es) language support
+
+[TECHNICAL]
+- Built with Architectury API for cross-platform compatibility
+- Supports Minecraft 1.21.1
+- Compatible with Fabric Loader 0.16.14+
+- Compatible with NeoForge 21.1.186+
+- Requires Architectury API 13.0.8+
+
+[BALANCE]
+- Copper tier positioned between Stone and Iron
+- Enderite tier positioned above Netherite
+- Balanced durability and damage values
+- Appropriate enchantability for each tier
+- Fire resistance for Enderite equipment
+
+[COMPATIBILITY]
+- Full compatibility with vanilla Minecraft
+- Designed to work alongside other mods
+- No conflicts with existing content
+- Proper tag integration for tool effectiveness
+
+[KNOWN ISSUES]
+- None reported
+
+[FUTURE PLANS]
+- Additional material tiers
+- More world generation features
+- Enhanced crafting mechanics
+- Additional effects
+
+---
+For detailed information, visit the project repository. 

@@ -7,7 +7,7 @@ pluginManagement {
     }
 }
 
-rootProject.name = 'advanced_vanilla'
+rootProject.name = 'captercraft'
 
 include 'common'
 include 'fabric'

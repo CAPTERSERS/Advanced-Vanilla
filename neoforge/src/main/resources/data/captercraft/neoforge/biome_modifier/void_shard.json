@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_end",
+  "features": "captercraft:void_shard_placed",
+  "step": "underground_ores"
+}

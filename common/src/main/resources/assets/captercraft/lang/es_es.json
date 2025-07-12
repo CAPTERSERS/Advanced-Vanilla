@@ -1,0 +1,37 @@
+{
+  "block.captercraft.block_of_enderite": "Bloque de enderita",
+  "block.captercraft.medium_weighted_pressure_plate": "Placa de presión para peso medio",
+  "block.captercraft.void_shard": "Fragmento del vacío",
+
+  "category.captercraft.tab": "Advanced Vanilla",
+
+  "item.captercraft.copper_axe": "Hacha de cobre",
+  "item.captercraft.copper_boots": "Botas de cobre",
+  "item.captercraft.copper_chestplate": "Peto de cobre",
+  "item.captercraft.copper_helmet": "Casco de cobre",
+  "item.captercraft.copper_hoe": "Azada de cobre",
+  "item.captercraft.copper_leggings": "Grebas de cobre",
+  "item.captercraft.copper_nugget": "Pepita de cobre",
+  "item.captercraft.copper_pickaxe": "Pico de cobre",
+  "item.captercraft.copper_shovel": "Pala de cobre",
+  "item.captercraft.copper_sword": "Espada de cobre",
+  "item.captercraft.enderite_axe": "Hacha de enderita",
+  "item.captercraft.enderite_boots": "Botas de enderita",
+  "item.captercraft.enderite_chestplate": "Peto de enderita",
+  "item.captercraft.enderite_helmet": "Casco de enderita",
+  "item.captercraft.enderite_hoe": "Azada de enderita",
+  "item.captercraft.enderite_ingot": "Lingote de enderita",
+  "item.captercraft.enderite_leggings": "Grebas de enderita",
+  "item.captercraft.enderite_pickaxe": "Pico de enderita",
+  "item.captercraft.enderite_shard": "Fragmento de enderita",
+  "item.captercraft.enderite_shovel": "Pala de enderita",
+  "item.captercraft.enderite_sword": "Espada de enderita",
+  "item.captercraft.enderite_upgrade_smithing_template": "Molde de herrería",
+
+  "item.captercraft.smithing_template.enderite_upgrade.additions_slot_description": "Añade un lingote de enderita",
+  "item.captercraft.smithing_template.enderite_upgrade.applies_to": "Equipamiento de netherita",
+  "item.captercraft.smithing_template.enderite_upgrade.base_slot_description": "Añade una armadura, arma o herramienta de netherita",
+  "item.captercraft.smithing_template.enderite_upgrade.ingredients": "Lingote de enderita",
+
+  "upgrade.captercraft.enderite_upgrade": "Mejora de enderita"
+}

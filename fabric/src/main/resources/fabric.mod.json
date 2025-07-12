@@ -1,33 +1,31 @@
 {
   "schemaVersion": 1,
-  "id": "advanced_vanilla",
+  "id": "captercraft",
   "version": "${version}",
-  "name": "Advanced Vanilla",
+  "name": "CapterCraft",
   "description": "Enhances vanilla items with new features and introduces a range of materials to enrich the classic experience.",
   "authors": [
     "CAPTERSERS"
   ],
   "contact": {
-    "homepage": "",
-    "sources": "https://github.com/CAPTERSERS/Advanced-Vanilla",
-    "issues": "https://github.com/CAPTERSERS/Advanced-Vanilla/issues"
+    "homepage": ""
   },
   "license": "MIT",
-  "icon": "assets/advanced_vanilla/icon.png",
+  "icon": "assets/captercraft/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.captersers.advanced_vanilla.fabric.AVModFabric"
+      "net.captersers.captercraft.fabric.CCModFabric"
     ],
     "client": [
-      "net.captersers.advanced_vanilla.fabric.client.AVModFabricClient"
+      "net.captersers.captercraft.fabric.client.CCModFabricClient"
     ],
     "fabric-datagen": [
-      "net.captersers.advanced_vanilla.fabric.datagen.AVFabricDataGenerator"
+      "net.captersers.captercraft.fabric.datagen.CCFabricDataGenerator"
     ]
   },
   "mixins": [
-    "advanced_vanilla.mixins.json"
+    "captercraft.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.16.14",

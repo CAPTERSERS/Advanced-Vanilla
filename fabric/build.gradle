@@ -1,6 +1,6 @@
 plugins {
-    id 'fabric-loom' version '1.10-SNAPSHOT'
     id 'com.github.johnrengelman.shadow'
+    id 'fabric-loom' version '1.10-SNAPSHOT'
 }
 
 architectury {
@@ -43,7 +43,7 @@ loom {
             name "Data Generation"
             vmArg "-Dfabric-api.datagen"
             vmArg "-Dfabric-api.datagen.output-dir=${project(":common").projectDir}/src/main/generated/resources".replace("\\", "/")
-            vmArg "-Dfabric-api.datagen.modid=advanced_vanilla"
+            vmArg "-Dfabric-api.datagen.modid=captercraft"
             runDir "build/datagen/"
         }
     }

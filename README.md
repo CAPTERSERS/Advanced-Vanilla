@@ -1,4 +1,4 @@
-# Advanced Vanilla
+# CapterCraft
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-green.svg)](https://www.minecraft.net/)
 [![Architectury](https://img.shields.io/badge/Architectury-API-blue.svg)](https://github.com/Architectury/ArchitecturyAPI)

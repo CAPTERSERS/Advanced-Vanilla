@@ -1,0 +1,37 @@
+{
+  "block.captercraft.block_of_enderite": "Block of Enderite",
+  "block.captercraft.medium_weighted_pressure_plate": "Medium Weighted Pressure Plate",
+  "block.captercraft.void_shard": "Void Shard",
+
+  "category.captercraft.tab": "Advanced Vanilla",
+
+  "item.captercraft.copper_axe": "Copper Axe",
+  "item.captercraft.copper_boots": "Copper Boots",
+  "item.captercraft.copper_chestplate": "Copper Chestplate",
+  "item.captercraft.copper_helmet": "Copper Helmet",
+  "item.captercraft.copper_hoe": "Copper Hoe",
+  "item.captercraft.copper_leggings": "Copper Leggings",
+  "item.captercraft.copper_nugget": "Copper Nugget",
+  "item.captercraft.copper_pickaxe": "Copper Pickaxe",
+  "item.captercraft.copper_shovel": "Copper Shovel",
+  "item.captercraft.copper_sword": "Copper Sword",
+  "item.captercraft.enderite_axe": "Enderite Axe",
+  "item.captercraft.enderite_boots": "Enderite Boots",
+  "item.captercraft.enderite_chestplate": "Enderite Chestplate",
+  "item.captercraft.enderite_helmet": "Enderite Helmet",
+  "item.captercraft.enderite_hoe": "Enderite Hoe",
+  "item.captercraft.enderite_ingot": "Enderite Ingot",
+  "item.captercraft.enderite_leggings": "Enderite Leggings",
+  "item.captercraft.enderite_pickaxe": "Enderite Pickaxe",
+  "item.captercraft.enderite_shard": "Enderite Shard",
+  "item.captercraft.enderite_shovel": "Enderite Shovel",
+  "item.captercraft.enderite_sword": "Enderite Sword",
+  "item.captercraft.enderite_upgrade_smithing_template": "Smithing Template",
+
+  "item.captercraft.smithing_template.enderite_upgrade.additions_slot_description": "Add Enderite Ingot",
+  "item.captercraft.smithing_template.enderite_upgrade.applies_to": "Netherite Equipment",
+  "item.captercraft.smithing_template.enderite_upgrade.base_slot_description": "Add netherite armor, weapon, or tool",
+  "item.captercraft.smithing_template.enderite_upgrade.ingredients": "Enderite Ingot",
+
+  "upgrade.captercraft.enderite_upgrade": "Enderite Upgrade"
+}
