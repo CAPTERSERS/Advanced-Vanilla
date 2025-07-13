@@ -8,7 +8,9 @@
     "CAPTERSERS"
   ],
   "contact": {
-    "homepage": ""
+    "homepage": "https://captersers-org.gitbook.io/captersers-org",
+    "sources": "https://github.com/CAPTERSERS/CapterCraft",
+    "issues": "https://github.com/CAPTERSERS/CapterCraft/issues"
   },
   "license": "MIT",
   "icon": "assets/captercraft/icon.png",

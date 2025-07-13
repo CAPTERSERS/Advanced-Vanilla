@@ -1,6 +1,6 @@
 modLoader = "javafml"
 loaderVersion = "[2,)"
-issueTrackerURL = ""
+issueTrackerURL = "https://github.com/CAPTERSERS/CapterCraft/issues"
 license = "MIT"
 
 [[mods]]
@@ -12,8 +12,8 @@ description = '''
 Enhances vanilla items with new features and introduces a range of materials to enrich the classic experience.
 '''
 logoFile = "assets/captercraft/icon.png"
-modUrl = ""
-displayURL = ""
+modUrl = "https://github.com/CAPTERSERS/CapterCraft"
+displayURL = "https://captersers-org.gitbook.io/captersers-org"
 
 [[dependencies.captercraft]]
 modId = "neoforge"
