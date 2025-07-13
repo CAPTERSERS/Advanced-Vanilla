@@ -10,16 +10,12 @@
 
 Compatible with **Fabric** and **NeoForge**.
 
-![break_line](.github/images/page/break_line.png)
-
 ## 📦 Features
 
 - Enderite tools (stronger than netherite).
 - Enderite armor (lighter and tougher).
 - Copper tools and armor.
 - New mysterious blocks and recipes.
-
-![break_line](.github/images/page/break_line.png)
 
 ## ⚔️ Items & Blocks
 
@@ -37,15 +33,11 @@ Compatible with **Fabric** and **NeoForge**.
 
 And More...
 
-![break_line](.github/images/page/break_line.png)
-
 ## 👥 Credits
 
-- **Creators**: CARPTERSERS Group (HANAKZ, Awdrewar, Caidrox)
+- **Creators**: CAPTERSERS Group (HANAKZ, Awdrewar, Caidrox)
 - **Inspiration**: A Steve who got tired of losing netherite in the End.
 - **Special thanks**: To you, brave adventurer, for downloading this mod.
-
-![break_line](.github/images/page/break_line.png)
 
 ## 🧾 License
 
