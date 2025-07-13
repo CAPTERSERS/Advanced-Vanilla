@@ -17,7 +17,7 @@ public class CCCreativeModeTabs {
     private static final Component TITLE = Component.translatable(Util.makeDescriptionId("category", CCMod.id("tab")));
 
     // Tabs
-    public static DeferredSupplier<CreativeModeTab> ADVANCED_VANILLA_TAB = TABS.register("advanced_vanilla_tab", () -> CreativeModeTab.builder(CreativeModeTab.Row.TOP, 0)
+    public static DeferredSupplier<CreativeModeTab> CAPTERCRAFT_TAB = TABS.register("captercraft", () -> CreativeModeTab.builder(CreativeModeTab.Row.TOP, 0)
             .title(TITLE)
             .icon(() -> new ItemStack(CCBlocks.BLOCK_OF_ENDERITE.get()))
             .displayItems((itemDisplayParameters, output) -> {
